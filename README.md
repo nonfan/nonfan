@@ -1,4 +1,4 @@
-### Hey there, I'm Sean 👋
+### Hey there, I'm Mo Fan 👋
 <!--
 **agoodbook/agoodbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
