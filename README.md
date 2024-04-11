@@ -1,6 +1,6 @@
 ### Hey there, I'm Mo Fan 👋
 
-### 大家好，我是莫凡👋
+🌱 I’m currently learning JavaScript
 
 <!--
 **agoodbook/agoodbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
