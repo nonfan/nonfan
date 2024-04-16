@@ -1,5 +1,11 @@
 ### Hey there, I'm Mo Fan 👋
 
+I don't know what I can do. I've been wasting my time and I think it's time for a change.
+
+- [ ] Master a foreign language (English)
+- [ ] Become a good programmer
+- [ ] Become a millionaire self-media blogger
+
 🌱 I’m currently learning JavaScript
 
 <!--
