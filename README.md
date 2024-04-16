@@ -6,7 +6,9 @@ I don't know what I can do. I've been wasting my time and I think it's time for 
 - [ ] Become a good programmer
 - [ ] Become a millionaire self-media blogger
 
-🌱 I’m currently learning JavaScript
+💬 I'm looking forward to the day it's finished.
+
+🌱 I’m currently learning JavaScript and TypeScript.
 
 <!--
 **agoodbook/agoodbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
