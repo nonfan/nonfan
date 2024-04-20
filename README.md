@@ -4,6 +4,7 @@ I don't know what I can do. I've been wasting my time and I think it's time for 
 
 - [ ] Master a foreign language (English)
 - [ ] Become a good programmer
+- [ ] Achievements in the field of blockchain
 - [ ] Become a millionaire self-media blogger
 
 💬 I'm looking forward to the day it's finished.
