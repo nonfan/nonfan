@@ -1,9 +1,6 @@
-### Hey there, I'm Mo Fan 👋
+### Hey there, I'm MoFan 👋
 
-I don't know what I can do. I've been wasting my time and I think it's time for a change.
-
-🌱 I’m currently learning JavaScript and TypeScript.
-
+Keep learning, keep trying, and look for opportunities.
 <!--
 **agoodbook/agoodbook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
